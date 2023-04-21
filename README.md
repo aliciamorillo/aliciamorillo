@@ -1,12 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **fasdfasdf**
-
-- 🌱 I’m currently learning **asdfasdf**
-
-- 👯 I’m looking to collaborate on **asdfasdf**
-
-- 👨‍💻 All of my projects are available at [asdfasdfasdf](asdfasdfasdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
